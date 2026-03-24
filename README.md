@@ -2,6 +2,11 @@
 
 A lightweight, fully functional Neural Network built entirely from scratch using only **NumPy** and Math. This project demonstrates a deep understanding of the inner workings of AI, including Forward Propagation, Backpropagation, and Gradient Descent, without relying on high-level libraries like TensorFlow or PyTorch.
 
+## 📈 Training Performance
+<div align="center">
+  <img src="Figure_1.png" alt="Training Loss Curve" width="600">
+</div>
+
 ## ✨ Features
 - **Pure Math & Matrices:** Implements Forward Pass and Backpropagation using raw matrix multiplication.
 - **Custom Activation Functions:** Includes `Sigmoid` and `ReLU` functions with their exact mathematical derivatives.
